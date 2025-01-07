@@ -27,6 +27,7 @@ ihr kapazitäten dafür habt und die Aufgabe übernehem wollt und bearbeitet ger
 
 ### Fragenkatalog
 - [ ] Klar definierte Challenges (Alle)
+- [ ] Beispielhaftes Vorgehen für eine Fragestellung
 
 ### Sonstiges
 - [ ] Evtl Links zu Tutorials
