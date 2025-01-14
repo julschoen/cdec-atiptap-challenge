@@ -6,8 +6,8 @@ ihr kapazitäten dafür habt und die Aufgabe übernehem wollt und bearbeitet ger
 
 ## TODO
 ### Daten
-- [ ] Trinkbrunnen (Annika?)
-- [ ] Refill Daten (Annika?)
+- [x] Trinkbrunnen (Annika?)
+- [x] Refill Daten (Annika?)
 - [ ] OpenStreet Map (?)
 - [ ] Satellitendaten
 - [ ] Datenkatalog für weitere Quellen
